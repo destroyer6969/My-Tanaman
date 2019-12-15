@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Tanaman</string>
+    <string name="check_status">Check Status</string>
+    <string name="nama">Nama:</string>
+    <string name="check">Check!</string>
+    <string name="hapus_informasi">Hapus Informasi</string>
+    <string name="my_tanaman_app">My Tanaman App</string>
+    <string name="status">Status</string>
+    <string name="informasi">Informasi</string>
+    <string name="pemberitahuan">Pemberitahuan</string>
+    <string name="url">URL</string>
+    <string name="tambah_informasi">Tambah Informasi</string>
+</resources>
